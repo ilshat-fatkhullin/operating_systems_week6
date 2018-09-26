@@ -1,0 +1,3 @@
+/home/ilshat/operating_systems_week6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilshat/operating_systems_week6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilshat/operating_systems_week6/cmake-build-debug/CMakeFiles/operating_systems_week6.dir
